@@ -1,6 +1,6 @@
 [![MasterHead]("https://64.media.tumblr.com/cf20256347de88aeb5b19f30d0117121/4f5cc966a38926beed/s500x750/98e457274cd83fcb5d3f8d89ed971894459ed8ad.gif")]
-<h1 align="center">Hi 👋, I'm Noureldin Mohamed</h1>
-<h3 align="center">A passionate data scientist from Egypt</h3>
+# Hi there, I'm [Noureldin Mohamed!](https://github.com/roon311) <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="40px" height="40px">
+<h3 align="center">I'm a Communications and Information Engineering Senior at Zewail City. I am enchanted by the infinite possibilities hidden within the captivating worlds of Data Science and Machine Learning, where algorithms dance with data to unlock the secrets of the universe.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roon311&label=Profile%20views&color=0e75b6&style=flat" alt="roon311" /> </p>
 
