@@ -1,12 +1,9 @@
-[![MasterHead](https://64.media.tumblr.com/cf20256347de88aeb5b19f30d0117121/4f5cc966a38926be-ed/s500x750/98e457274cd83fcb5d3f8d89ed971894459ed8ad.gif)](https://rishavchanda.io)
+[![MasterHead](https://64.media.tumblr.com/cf20256347de88aeb5b19f30d0117121/4f5cc966a38926beed/s500x750/98e457274cd83fcb5d3f8d89ed971894459ed8ad.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Noureldin Mohamed</h1>
 <h3 align="center">A passionate data scientist from Egypt</h3>
-(img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
-
+(img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roon311&label=Profile%20views&color=0e75b6&style=flat" alt="roon311" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roon311" alt="roon311" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter**
 
