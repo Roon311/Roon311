@@ -1,7 +1,7 @@
 [![MasterHead](https://64.media.tumblr.com/cf20256347de88aeb5b19f30d0117121/4f5cc966a38926beed/s500x750/98e457274cd83fcb5d3f8d89ed971894459ed8ad.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Noureldin Mohamed</h1>
 <h3 align="center">A passionate data scientist from Egypt</h3>
-<a href="https://samujjwaal.tech/"><img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" align="right" height="275" /></a>
+<a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/blob/master/etc/python.png" align="right" height="275" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roon311&label=Profile%20views&color=0e75b6&style=flat" alt="roon311" /> </p>
 
@@ -23,5 +23,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roon311&show_icons=true&locale=en&layout=compact" alt="roon311" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roon311&show_icons=true&locale=en" alt="roon311" /></p>
+
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=Ibrahimhamada&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/ibrahimhamada)
+<a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/blob/master/etc/python.png" align="right" height="275" /></a>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roon311&" alt="roon311" /></p>
