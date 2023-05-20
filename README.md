@@ -35,8 +35,8 @@
 # <img src="https://images.squarespace-cdn.com/content/v1/5ac77df1ee17594df38c0d17/1533660277004-3PVCMSZUUXEW5TYW3NGJ/data.gif" width="50">   My Stats: 
 
 <div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=roon311&show_icons=true&locale=en&theme=tokyonight" alt="roon311" width="300" style="flex: 1;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roon311&show_icons=true&locale=en&theme=tokyonight" alt="roon311" width="300" style="flex: 1;">
+  <img src="https://github-readme-stats.vercel.app/api?username=roon311&show_icons=true&locale=en&theme=tokyonight" alt="roon311" width="400" style="flex: 1;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roon311&show_icons=true&locale=en&theme=tokyonight" alt="roon311" width="400" style="flex: 1;">
 </div>
 
 
