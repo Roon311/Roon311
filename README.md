@@ -36,7 +36,7 @@
 
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=roon311&show_icons=true&locale=en&theme=tokyonight" alt="roon311" width="400" style="flex: 1;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roon311&show_icons=true&locale=en&theme=tokyonight" alt="roon311" width="400" style="flex: 1;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roon311&show_icons=true&locale=en&theme=tokyonight" alt="roon311" width="410" style="flex: 1;">
 </div>
 
 
