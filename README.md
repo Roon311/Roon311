@@ -11,7 +11,7 @@
     <ul>
       <li>🌱 I’m currently learning <strong>Flutter</strong></li>
       <li>📫 How to reach me: <strong>   s-noureldin.hamedo@zewailcity.edu.eg   </strong></li>
-      <li>⚡ Fun fact <strong>I like watching kdramas🎬 </strong></li>
+      <li>⚡ Hobby <strong>Watching kdramas🎬 </strong></li>
     </ul>
   </div>
 
