@@ -47,7 +47,7 @@
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=roon311&show_icons=true&theme=tokyonight" alt="My Github Stats" width="400">
   </a>
   <a href="https://github.com/roon311">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=roon311&show_icons=true&theme=tokyonight" alt="My Github Streak" width="420">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=roon311&show_icons=true&theme=tokyonight" alt="My Github Streak" width="400">
   </a>
 </div>
 
