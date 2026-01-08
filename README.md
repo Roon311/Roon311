@@ -10,7 +10,7 @@
   <div style="flex: 1;">
     <ul>
       <li>🌱 I’m currently learning <strong>Dart-Flutter</strong></li>
-      <li>📫 How to reach me: <strong>   s-noureldin.hamedo@zewailcity.edu.eg   </strong></li>
+      <li>📫 How to reach me: <strong>   Feel Free to connect on Linkedin   </strong></li>
       <li>⚡ Hobby: <strong>Watching kdramas🎬 </strong></li>
     </ul>
   </div>
