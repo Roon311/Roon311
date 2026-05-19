@@ -1,7 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 
 # Hi there, I'm [Noureldin Mohamed!](https://github.com/roon311) <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="40px" height="40px">
-<h3 align="center">I'm a Communications and Information Engineer. I am enchanted by the infinite possibilities hidden within the captivating worlds of Data Science and Machine Learning, where algorithms dance with data to unlock the secrets of the universe.</h3>
+<h3 align="center">I'm an AI Engineer. I am enchanted by the infinite possibilities hidden within the captivating worlds of Data Science and Machine Learning, where algorithms dance with data to unlock the secrets of the universe.</h3>
 
 <img align="right" alt="Coding" width="390" src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif">
 
