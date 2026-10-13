@@ -60,7 +60,7 @@
 
 <div align="center">
   <a href="https://github.com/roon311">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=roon311&layout=compact&theme=tokyonight" alt="Top Languages">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roon311&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
   </a>
   <a href="https://samujjwaal.tech/">
     <img src="https://github.com/samujjwaal/samujjwaal/blob/master/etc/python.png" alt="Python" height="200">
@@ -72,10 +72,10 @@
 
 <div style="display: flex;">
   <a href="https://github.com/roon311">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=roon311&show_icons=true&theme=tokyonight" alt="My Github Stats" width="400">
+    <img src="https://streak-stats.demolab.com/?user=roon311&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500">
   </a>
   <a href="https://github.com/roon311">
-    <img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=roon311&show_icons=true&theme=tokyonight" alt="GitHub Streak" width="400">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=roon311&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="200">
   </a>
 </div>
 <!-- <img src="https://?user=roon311&show_icons=true&theme=tokyonight" alt="My Github Streak" width="400">
@@ -83,3 +83,7 @@
 
 <!-- ### :writing_hand: Blog Posts : --> 
 
+  
+  
+
+  
